@@ -22,12 +22,14 @@
     <h2><strong>Professional Experience:</strong></h2>
     <br />
     <h3><strong>Royal Vending</strong></h3>
+      <p>April 2017- November 2017</p>
     <h4>Order Picker</h4>
       <p><ul><li>Learned the skills and dedication it took to pick and sort all items for vending and market routes</li>
         <li>Proficiently stocked all areas of warehouse, while efficiently fulfilling my duties</li>
         <li>Developed organization skills and practiced attention to detail to clean all areas of warehouse</li></ul>
     </p>
     <h3><strong>C.M.S. Photography</strong></h3>
+  <p>February 2010- November 2017</p>
     <h4>Freelance Photographer and Videographer</h4>
   
   
