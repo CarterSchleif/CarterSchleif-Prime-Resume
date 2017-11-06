@@ -29,8 +29,13 @@
         <li>Developed organization skills and practiced attention to detail to clean all areas of warehouse</li></ul>
     </p>
     <h3><strong>C.M.S. Photography</strong></h3>
-  <p>February 2010- November 2017</p>
+      <p>February 2010- November 2017</p>
     <h4>Freelance Photographer and Videographer</h4>
+      <p><ul><li>Exercise my communication skills while working with wide varieties of individuals</li>
+         <li>Enhance my ability to think quickly and problem solve while photographing clients with varying expectations.</li>
+         <li>Exemplify my time management skills when planning itineraries for clients</li>
+         <li>Utilize my range of skillsets to compliment the differing goals of my clients</li>
+      </p>
   
   
   
