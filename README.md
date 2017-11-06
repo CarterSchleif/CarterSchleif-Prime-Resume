@@ -22,7 +22,6 @@
     <h2><strong>Professional Experience:</strong></h2>
     <br />
     <h3><strong>Royal Vending</strong></h3>
-    <br />
     <h3>Order Picker</h3>
     <br />
       
