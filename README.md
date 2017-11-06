@@ -24,7 +24,8 @@
     <h3><strong>Royal Vending</strong></h3>
     <h3>Order Picker</h3>
     <br />
-      
+      <p><li>Learned the skills and dedication it took to pick and sort all items for vending and market routes</li>
+        <li>Proficiently stocked all areas of warehouse, while efficiently fulfilling my duties</li>
   
   
   
