@@ -23,9 +23,9 @@
     <br />
     <h3><strong>Royal Vending</strong></h3>
     <h4>Order Picker</h4>
-      <p><li>Learned the skills and dedication it took to pick and sort all items for vending and market routes</li>
+      <p><ul><li>Learned the skills and dedication it took to pick and sort all items for vending and market routes</li>
         <li>Proficiently stocked all areas of warehouse, while efficiently fulfilling my duties</li>
-        <li>Developed organization skills and practiced attention to detail to clean all areas of warehouse</li>
+        <li>Developed organization skills and practiced attention to detail to clean all areas of warehouse</li></ul>
     </p>
     <h3><strong>C.M.S. Photography</strong></h3>
     <h4>Freelance Photographer and Videographer</h4>
