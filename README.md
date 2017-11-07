@@ -2,9 +2,7 @@
 <html>
   
   <head>
-  
     <title>Carter Schleif Resume</title>
-    
   </head>
   
   <body>
@@ -60,5 +58,4 @@
   </div>
   
   </body>
-  
   </html>
