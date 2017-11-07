@@ -7,7 +7,7 @@
   
   <body>
   <div>
-    <h1><strong>Carter Schleif</strong></h1>
+    <h1><strong><big>Carter Schleif</big></strong></h1>
     <br />
       <p>Phone: 763-283-8079<br />
       Email: carter.schleif@gmail.com<br />
