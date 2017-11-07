@@ -41,8 +41,7 @@
   <h4>File Management</h4>
     <p><ul><li>Organized and managed all patient charts with confidential and sensitive personal information</li>
       <li>Efficiently maintained all up-to-date records while properly discarding all outdated files</li>
-      <li>Offered assistance for any other tasks as needed</li>
-  </ul>
+      <li>Offered assistance for any other tasks as needed</li></ul>
   </div>
   <div>
     <h1>References</h1>
