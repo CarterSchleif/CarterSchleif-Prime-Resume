@@ -34,8 +34,18 @@
       <p><ul><li>Exercise my communication skills while working with wide varieties of individuals</li>
          <li>Enhance my ability to think quickly and problem solve while photographing clients with varying expectations.</li>
          <li>Exemplify my time management skills when planning itineraries for clients</li>
-         <li>Utilize my range of skillsets to compliment the differing goals of my clients</li>
+         <li>Utilize my range of skill sets to compliment the differing goals of my clients</li>
+        </ul>
       </p>
+  <h3><strong>Weimar Family Dentistry</strong></h3>
+    <p>January 2013- March 2015</p>
+  <h4>File Management</h4>
+    <p><ul><li>Organized and managed all patient charts with confidential and sensitive personal information</li>
+      <li>Efficiently maintained all up-to-date records while properly discarding all outdated files</li>
+      <li>Offered assistance for any other tasks as needed</li>
+  </ul>
+  </div>
+  
   
   
   
