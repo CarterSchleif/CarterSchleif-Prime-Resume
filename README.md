@@ -19,7 +19,7 @@
     </p>
   </div>
   <div>
-    <h2><strong>Professional Experience:</strong></h2>
+    <h1><strong>Professional Experience:</strong></h1>
     <h3><strong>Royal Vending</strong></h3>
       <p>April 2017- November 2017</p>
     <h4>Order Picker</h4>
@@ -45,7 +45,7 @@
   </ul>
   </div>
   <div>
-    <h2><strong>References</strong></h2>
+    <h1><strong>References</strong></h1>
   <h3>Kathy Weimar(Former Boss)</h3>
   <p>Office Manager</p>
   <p>Phone:763-493-9446
