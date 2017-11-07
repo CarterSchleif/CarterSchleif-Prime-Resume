@@ -20,7 +20,6 @@
   </div>
   <div>
     <h2><strong>Professional Experience:</strong></h2>
-    <br />
     <h3><strong>Royal Vending</strong></h3>
       <p>April 2017- November 2017</p>
     <h4>Order Picker</h4>
