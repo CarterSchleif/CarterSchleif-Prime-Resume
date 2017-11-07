@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Carter Schleif Resume
-    </title>
+    <title>Carter Schleif Resume</title>
   </head>
   
   <body>
@@ -55,6 +54,8 @@
     <h3>Gail Ledin(Family Friend)</h3>
       <p>Dentist Treatment Coordinator</p>
       <p>Phone: 763-843-4361</p>
+  </div>
   
   </body>
+  
   </html>
