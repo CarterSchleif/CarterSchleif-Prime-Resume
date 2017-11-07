@@ -42,15 +42,16 @@
     <p><ul><li>Organized and managed all patient charts with confidential and sensitive personal information</li>
       <li>Efficiently maintained all up-to-date records while properly discarding all outdated files</li>
       <li>Offered assistance for any other tasks as needed</li></ul>
+      </p>
   </div>
   <div>
     <h1>References</h1>
-  <h3>Kathy Weimar(Former Boss)</h3>
-  <p>Office Manager</p>
-  <p>Phone:763-493-9446
-  
-  
-  
+    <h3>Kathy Weimar(Former Boss)</h3>
+      <p>Office Manager</p>
+      <p>Phone: 763-493-9446
+    <h3>Susan Kvidera(Former Principle/Teacher)
+      <p>Assistant Principle</p>
+      <p>Phone: 763-576-7942
   
   
   
