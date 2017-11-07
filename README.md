@@ -49,12 +49,12 @@
     <h3>Kathy Weimar(Former Boss)</h3>
       <p>Office Manager</p>
       <p>Phone: 763-493-9446
-    <h3>Susan Kvidera(Former Principle/Teacher)
+    <h3>Susan Kvidera(Former Principle/Teacher)</h3>
       <p>Assistant Principle</p>
       <p>Phone: 763-576-7942
+    <h3>Gail Ledin(Family Friend)</h3>
+      <p>Dentist Treatment Coordinator</p>
+      <p>Phone: 763-843-4361</p>
   
-  
-  
-  
-  
+  </body>
   </html>
