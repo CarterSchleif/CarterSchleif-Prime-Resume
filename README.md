@@ -45,7 +45,12 @@
       <li>Offered assistance for any other tasks as needed</li>
   </ul>
   </div>
-  
+  <div>
+    <h2><strong>References</strong></h2>
+    <br />
+  <h3>Kathy Weimar(Former Boss)</h3>
+  <p>Office Manager</p>
+  <p>Phone:763-493-9446
   
   
   
