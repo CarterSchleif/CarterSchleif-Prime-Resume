@@ -2,9 +2,9 @@
 <html>
   
   <head>
-    <title>
-      Carter Schleif Resume
-    </title>
+  
+    <title>Carter Schleif Resume</title>
+    
   </head>
   
   <body>
