@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-  
   <head>
     <title>Carter Schleif Resume</title>
   </head>
-  
   <body>
   <div>
     <h1><strong><big>Carter Schleif</big></strong></h1>
@@ -58,4 +56,4 @@
   </div>
   
   </body>
-  </html>
+</html>
